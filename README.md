@@ -2,9 +2,10 @@
 Class project from Web Engineering (SWEN-344)
 
 TO RUN: 
-- must install node modules by running the command 'npm install'
+- clone git repo
+- must install node modules by running the command `npm install`
 - run the server file
-- run 'npm start'
+- run `npm start` at the root of the directory
 
 # Description
 Worked independently to create a basic full-stack nutrition tracking application. Had to self-teach and work with SQL, ReactJS, REST API, along with JavaScript itself, and make it work with Python on the server side. The app allows the user 
