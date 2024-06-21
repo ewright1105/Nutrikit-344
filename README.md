@@ -1,6 +1,11 @@
 # Nutrikit-344
 Class project from Web Engineering (SWEN-344)
 
+TO RUN: 
+- must install node modules by running the command 'npm install'
+- run the server file
+- run 'npm start'
+
 # Description
 Worked independently to create a basic full-stack nutrition tracking application. Had to self-teach and work with SQL, ReactJS, REST API, along with JavaScript itself, and make it work with Python on the server side. The app allows the user 
 to set a calorie goal and browse a collection of foods, adding them to your collection. It also shows the nutrition information of each item as you select it and the total nutrition of all items that were added
